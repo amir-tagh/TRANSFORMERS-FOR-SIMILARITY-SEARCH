@@ -51,6 +51,8 @@ torchrun --nproc_per_node=<number_of_gpus> <script_name>.py --metric cosine --qu
 
 ## Acknowledgements
 We thank the authors of following open-source packages:
-- [BioPython](https://biopython.org/)
-- [ProDy](http://prody.csb.pitt.edu/)
+- [torch](https://pytorch.org/)
+- [faiss](https://engineering.fb.com/2017/03/29/data-infrastructure/faiss-a-library-for-efficient-similarity-search/)
 - [RDkit](https://www.rdkit.org/)
+- [numpy](https://numpy.org/)
+- 
